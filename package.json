@@ -1,0 +1,45 @@
+{
+  "name": "adwaita-github-theme",
+  "icon": "assets/icon.png",
+  "displayName": "Adwaita Github",
+  "description": "Adwaita theme with Github syntax highlighting",
+  "version": "1.0.1",
+  "publisher": "egirlcatnip",
+  "license": "GPL-3.0-only",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "gnome",
+    "libadwaita",
+    "adwaita",
+    "gtk",
+    "gtk4",
+    "github"
+  ],
+  "homepage": "https://github.com/egirlcatnip/vscode-adwaita",
+  "bugs": {
+    "url": "https://github.com/egirlcatnip/vscode-adwaita/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egirlcatnip/vscode-adwaita.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Adwaita Dark & Github syntax highlighting",
+        "uiTheme": "vs-dark",
+        "path": "./themes/adwaita-dark-github.json"
+      },
+      {
+        "label": "Adwaita Light & Github syntax highlighting",
+        "uiTheme": "vs",
+        "path": "./themes/adwaita-light-github.json"
+      }
+    ]
+  }
+}
