@@ -3,14 +3,14 @@
 Dark and light themes based on GNOME's Adwaita look and Github's syntax highlighting.
 
 ## Preview with some rust code
-![Preview](assets/image.png)
+![Preview](https://raw.github.com/egirlcatnip/adwaita-github-theme/main/assets/image.png)
 
 
 ## Light theme
-![Screenshot showing the light theme](assets/image-light.png)<br>
+![Screenshot showing the light theme](https://raw.github.com/egirlcatnip/adwaita-github-theme/main/assets/image-light.png)<br>
 
 ## Dark theme
-![Screenshot showing the dark theme](assets/image-dark.png)<br>
+![Screenshot showing the dark theme](https://raw.github.com/egirlcatnip/adwaita-github-theme/main/assets/image-dark.png)<br>
 <small><center>Fonts shown: JetBrains Mono </center></small>
 
 ## Installation
@@ -25,6 +25,6 @@ Get it on [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=e
 
 <hr>
 
+All credit goes to the developer of  [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita/)
 This project is not affiliated with GNOME Foundation.
 This project is not affiliated with Github.
-All credit goes to the developer of  [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita/)
