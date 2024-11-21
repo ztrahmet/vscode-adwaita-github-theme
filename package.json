@@ -3,7 +3,7 @@
   "icon": "assets/icon.png",
   "displayName": "Adwaita Github",
   "description": "Adwaita theme with Github syntax highlighting",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "egirlcatnip",
   "license": "GPL-3.0-only",
   "engines": {
@@ -20,13 +20,13 @@
     "gtk4",
     "github"
   ],
-  "homepage": "https://github.com/egirlcatnip/vscode-adwaita",
+  "homepage": "https://github.com/egirlcatnip/adwaita-github-theme",
   "bugs": {
-    "url": "https://github.com/egirlcatnip/vscode-adwaita/issues"
+    "url": "https://github.com/egirlcatnip/adwaita-github-theme/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/egirlcatnip/vscode-adwaita.git"
+    "url": "https://github.com/egirlcatnip/adwaita-github-theme.git"
   },
   "contributes": {
     "themes": [
