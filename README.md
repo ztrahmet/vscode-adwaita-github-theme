@@ -3,7 +3,7 @@
 Dark and light themes based on GNOME's Adwaita look and Github's syntax highlighting.
 
 ## Preview with some rust code
-![Preview](https://raw.github.com/egirlcatnip/adwaita-github-theme/main/assets/image.png)
+![Preview](https://raw.github.com/egirlcatnip/adwaita-github-theme/main/assets/preview.png)
 
 
 ## Light theme
