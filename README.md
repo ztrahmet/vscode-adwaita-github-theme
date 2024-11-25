@@ -1,6 +1,6 @@
-# Adwaita theme with Github syntax for VS Code
+# Adwaita theme with GitHub syntax for VS Code
 
-Dark and light themes based on GNOME's Adwaita look and Github's syntax highlighting.
+Dark and light themes based on GNOME's Adwaita look and GitHub's syntax highlighting.
 
 ## Preview with some rust code
 ![Preview](https://raw.github.com/egirlcatnip/adwaita-github-theme/main/assets/preview.png)
@@ -27,4 +27,4 @@ Get it on [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=e
 
 All credit goes to the developer of  [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita/)
 This project is not affiliated with GNOME Foundation.
-This project is not affiliated with Github.
+This project is not affiliated with GitHub.
