@@ -3,14 +3,14 @@
 Dark and light themes based on GNOME's Adwaita look and GitHub's syntax highlighting.
 
 ## Preview with some rust code
-![Preview](https://raw.github.com/egirlcatnip/adwaita-github-theme/main/assets/preview.png)
+![Preview](assets/preview.png)
 
 
 ## Light theme
-![Screenshot showing the light theme](https://raw.github.com/egirlcatnip/adwaita-github-theme/main/assets/image-light.png)<br>
+![Screenshot showing the light theme](assets/image-light.png)<br>
 
 ## Dark theme
-![Screenshot showing the dark theme](https://raw.github.com/egirlcatnip/adwaita-github-theme/main/assets/image-dark.png)<br>
+![Screenshot showing the dark theme](assets/image-dark.png)<br>
 <small><center>Fonts shown: JetBrains Mono </center></small>
 
 ## Installation
