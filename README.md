@@ -1,30 +1,22 @@
-# Adwaita theme with GitHub syntax for VS Code
+# Adwaita Theme for Visual Studio Code
 
-Dark and light themes based on GNOME's Adwaita look and GitHub's syntax highlighting.
+This is a colorscheme and syntax highlighting theme that mimics the Adwaita
+theme used in GNOME applications.
 
-## Preview with some rust code
-![Preview](assets/preview.png)
-
-
-## Light theme
-![Screenshot showing the light theme](assets/image-light.png)<br>
-
-## Dark theme
-![Screenshot showing the dark theme](assets/image-dark.png)<br>
-<small><center>Fonts shown: JetBrains Mono </center></small>
+- Syntax highlighting based on either Adwaita or GitHub theme.
+- Supports Gnome Accent colors. (manually set)
+- Also includes a terminal theme.
 
 ## Installation
 
-Get it on [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=egirlcatnip.adwaita-github-theme).
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the Extensions icon in the Activity
+   Bar on the side of the window or by pressing `Ctrl+Shift+X`.
+3. Search for "Adwaita Theme".
+4. Click on the "Install" button for the Adwaita Theme extension.
+5. Once installed, go to the Command Palette by pressing `Ctrl+Shift+P`.
+6. Type "Preferences: Color Theme" and select it.
+7. In the list of available themes, search for "Adwaita" and select it.
+8. Your editor should now be using the Adwaita theme.
 
-## Related projectsre
-
-- [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita/) original Adwaita theme this one is based on, comes with Builder's syntax highlighting:
-
-![Screenshot of vscode-adwaita](https://raw.githubusercontent.com/piousdeer/vscode-adwaita/main/assets/screenshot.png)
-
-<hr>
-
-All credit goes to the developer of  [piousdeer/vscode-adwaita](https://github.com/piousdeer/vscode-adwaita/)
-This project is not affiliated with GNOME Foundation.
-This project is not affiliated with GitHub.
+## Features

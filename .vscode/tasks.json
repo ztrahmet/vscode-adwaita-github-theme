@@ -1,0 +1,20 @@
+{
+  // See https://code.visualstudio.com/docs/editor/tasks for more information
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build VSCode Extension",
+      "type": "shell",
+      "command": "npx vsce package",
+      "group": "build",
+      "detail": "Builds the VSCode extension into a .vsix file.",
+    }
+  ],
+  "inputs": [
+    {
+      "id": "textInput",
+      "type": "promptString",
+      "description": "Enter the version number for the extension",
+    }
+  ]
+}

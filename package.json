@@ -1,9 +1,9 @@
 {
-  "name": "adwaita-github-theme",
+  "name": "adwaita-theme",
   "icon": "assets/icon.png",
-  "displayName": "Adwaita Github",
-  "description": "Adwaita theme with Github syntax highlighting",
-  "version": "1.0.6",
+  "displayName": "Adwaita",
+  "description": "Adwaita, Gnome's colorscheme theme",
+  "version": "2.0.0",
   "publisher": "egirlcatnip",
   "license": "GPL-3.0-only",
   "engines": {
@@ -20,25 +20,35 @@
     "gtk4",
     "github"
   ],
-  "homepage": "https://github.com/egirlcatnip/adwaita-github-theme",
+  "homepage": "https://github.com/egirlcatnip/adwaitaadw-theme",
   "bugs": {
-    "url": "https://github.com/egirlcatnip/adwaita-github-theme/issues"
+    "url": "https://github.com/egirlcatnip/adwaitaadw-theme/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/egirlcatnip/adwaita-github-theme.git"
+    "url": "https://github.com/egirlcatnip/adwaitaadw-theme.git"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Adwaita Dark & Github syntax highlighting",
+        "label": "Adwaita Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/adwaita-dark-github.json"
+        "path": "./themes/adw-dark.json"
       },
       {
-        "label": "Adwaita Light & Github syntax highlighting",
+        "label": "Adwaita Light",
         "uiTheme": "vs",
-        "path": "./themes/adwaita-light-github.json"
+        "path": "./themes/adw-light.json"
+      },
+      {
+        "label": "Adwaita GitHub Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/adw-github-dark.json"
+      },
+      {
+        "label": "Adwaita GitHub Light",
+        "uiTheme": "vs",
+        "path": "./themes/adw-github-light.json"
       }
     ]
   }
