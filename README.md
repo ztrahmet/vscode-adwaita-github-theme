@@ -1,10 +1,12 @@
 # Adwaita Theme for Visual Studio Code
 
-This is a colorscheme and syntax highlighting theme that mimics the Adwaita
+This is a color scheme and syntax highlighting theme that mimics the Adwaita
 theme used in GNOME applications.
 
-- Syntax highlighting based on either Adwaita or GitHub theme.
-- Supports Gnome Accent colors. (manually set)
+## Features
+
+- Syntax highlighting based on either Adwaita or the GitHub theme.
+- Supports GNOME accent colors (set manually).
 - Also includes a terminal theme.
 
 ## Installation
@@ -18,5 +20,3 @@ theme used in GNOME applications.
 6. Type "Preferences: Color Theme" and select it.
 7. In the list of available themes, search for "Adwaita" and select it.
 8. Your editor should now be using the Adwaita theme.
-
-## Features
